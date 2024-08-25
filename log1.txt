@@ -1,0 +1,200 @@
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C  
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C  
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C  
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door C
+Do you want to change doors? (y/n)
+y
+Now your door is B
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door C
+Do you want to change doors? (y/n)
+y
+Now your door is B
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door C
+Do you want to change doors? (y/n)
+y
+Now your door is B
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door C
+Do you want to change doors? (y/n)
+y
+Now your door is B
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Sorry, your door also has a goat
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+C
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is A
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+C
+There's a goat in door A
+Do you want to change doors? (y/n)
+y
+Now your door is B
+And your door has...
+Sorry, your door also has a goat
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+B
+There's a goat in door A
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Sorry, your door also has a goat
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Sorry, your door also has a goat
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door C
+Do you want to change doors? (y/n)
+y
+Now your door is B
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Sorry, your door also has a goat
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+C
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is A
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door C
+Do you want to change doors? (y/n)
+y
+Now your door is B
+And your door has...
+Congratulations, you won the prize!
+Do you want to play again? (y/n)
+y
+Introduce the door you want (A, B or C)
+A
+There's a goat in door B
+Do you want to change doors? (y/n)
+y
+Now your door is C
+And your door has...
+Sorry, your door also has a goat
+Do you want to play again? (y/n)
+n
